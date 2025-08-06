@@ -1,0 +1,78 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Ben Baker
+ID:      169081260
+Email:   bake12600@mylaurier.ca
+Section: CP164 C
+Version: 2025-01-23
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Queue is empty: True
+Length of the queue: 5
+Peeking at the front of the queue: 10
+Removed: 10
+Removed: 20
+Removed: 30
+Removed: 40
+Removed: 50
+Queue is empty after all removals: True
+Caught an error: Cannot remove from an empty queue
+Caught an error: Cannot peek at an empty queue
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Testing Queue:
+True
+False
+10
+10
+20
+30
+40
+50
+True
+
+Testing Priority Queue:
+True
+False
+10
+10
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+Highest priority movie: ('Alphaville', 7.1)
+
+Movies removed in priority order (by rating):
+('Alphaville', 7.1)
+('Stardust', 7.7)
+('Juno', 7.7)
+('Darjeeling Limited, The', 7.1)
+('Broken Flowers', 7.2)
+('Star Wars: Episode IV - A New Hope', 8.7)
+('Horror of Dracula', 7.4)
+('Jason and the Argonauts', 7.4)
+('Wrong Box, The', 7.0)
+('Finding Dory', 7.5)
+('Manos: The Hands of Fate', 1.9)
+('Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies!!?, The', 2.2)
+('Z', 8.2)
+('Wonder Woman', 8.1)
+('Zulu', 6.7)
+-------------------------------------------------------

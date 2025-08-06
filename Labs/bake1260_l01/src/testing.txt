@@ -1,0 +1,241 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Ben Baker
+ID:      169081260
+Email:   bake12600@mylaurier.ca
+Section: CP164 C
+Version: 2025-01-7
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+science fiction
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+0,2
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Genres
+ 0 science fiction
+ 1 fantasy
+ 2 drama
+ 3 romance
+ 4 comedy
+ 5 zombie
+ 6 action
+ 7 historical
+ 8 horror
+ 9 war
+10 mystery
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Genres
+ 0 science fiction
+ 1 fantasy
+ 2 drama
+ 3 romance
+ 4 comedy
+ 5 zombie
+ 6 action
+ 7 historical
+ 8 horror
+ 9 war
+10 mystery
+
+Enter a genre number (ENTER to quit): 9
+Enter a genre number (ENTER to quit): 8
+Enter a genre number (ENTER to quit): 3
+Enter a genre number (ENTER to quit): 
+[9, 8, 3]
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Title: Star Wars: Episode IV - A New Hope
+Year of release: 1977
+Director: George Lucas
+Rating: 8.7
+Genres
+ 0 science fiction
+ 1 fantasy
+ 2 drama
+ 3 romance
+ 4 comedy
+ 5 zombie
+ 6 action
+ 7 historical
+ 8 horror
+ 9 war
+10 mystery
+
+Enter a genre number (ENTER to quit): 0
+Enter a genre number (ENTER to quit): 6
+Enter a genre number (ENTER to quit): 
+Title:    Star Wars: Episode IV - A New Hope
+Year:     1977
+Director: George Lucas
+Rating:   8.7
+Genres:   science fiction, action
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+Title:    Dellamorte Dellamore
+Year:     1994
+Director: Michele Soavi
+Rating:   7.2
+Genres:   romance, comedy, zombie, horror
+-------------------------------------------------------
+t07
+-------------------------------------------------------
+Dellamorte Dellamore|1994|Michele Soavi|7.2|3,4,5,8
+Title:    Dellamorte Dellamore
+Year:     1994
+Director: Michele Soavi
+Rating:   7.2
+Genres:   romance, comedy, zombie, horror
+
+Dark City|1998|Alex Proyas|7.8|0
+Title:    Dark City
+Year:     1998
+Director: Alex Proyas
+Rating:   7.8
+Genres:   science fiction
+
+Zulu|1964|Cy Endfield|7.8|9
+Title:    Zulu
+Year:     1964
+Director: Cy Endfield
+Rating:   7.8
+Genres:   war
+
+I Am Legend|2007|Francis Lawrence|7.1|0,6
+Title:    I Am Legend
+Year:     2007
+Director: Francis Lawrence
+Rating:   7.1
+Genres:   science fiction, action
+
+Omega Man, The|1971|Boris Sagal|6.6|0,6
+Title:    Omega Man, The
+Year:     1971
+Director: Boris Sagal
+Rating:   6.6
+Genres:   science fiction, action
+
+Last Man On Earth, The|1964|Ubaldo Ragona|6.9|0
+Title:    Last Man On Earth, The
+Year:     1964
+Director: Ubaldo Ragona
+Rating:   6.9
+Genres:   science fiction
+
+Alphaville|1965|Jean-Luc Godard|7.1|0,4
+Title:    Alphaville
+Year:     1965
+Director: Jean-Luc Godard
+Rating:   7.1
+Genres:   science fiction, comedy
+
+Stardust|2007|Matthew Vaughn|7.7|1,4
+Title:    Stardust
+Year:     2007
+Director: Matthew Vaughn
+Rating:   7.7
+Genres:   fantasy, comedy
+
+Juno|2007|Jason Reitman|7.7|3,4
+Title:    Juno
+Year:     2007
+Director: Jason Reitman
+Rating:   7.7
+Genres:   romance, comedy
+
+Darjeeling Limited, The|2007|Wes Anderson|7.1|4
+Title:    Darjeeling Limited, The
+Year:     2007
+Director: Wes Anderson
+Rating:   7.1
+Genres:   comedy
+
+Broken Flowers|2005|Jim Jarmusch|7.2|3,4
+Title:    Broken Flowers
+Year:     2005
+Director: Jim Jarmusch
+Rating:   7.2
+Genres:   romance, comedy
+
+Star Wars: Episode IV - A New Hope|1977|George Lucas|8.7|0,6
+Title:    Star Wars: Episode IV - A New Hope
+Year:     1977
+Director: George Lucas
+Rating:   8.7
+Genres:   science fiction, action
+
+Horror of Dracula|1958|Terence Fisher|7.4|8
+Title:    Horror of Dracula
+Year:     1958
+Director: Terence Fisher
+Rating:   7.4
+Genres:   horror
+
+Jason and the Argonauts|1963|Don Chaffey|7.4|1,6
+Title:    Jason and the Argonauts
+Year:     1963
+Director: Don Chaffey
+Rating:   7.4
+Genres:   fantasy, action
+
+Wrong Box, The|1966|Bryan Forbes|7.0|4
+Title:    Wrong Box, The
+Year:     1966
+Director: Bryan Forbes
+Rating:   7.0
+Genres:   comedy
+
+Finding Dory|2016|Andrew Stanton, Angus MacLane|7.5|4
+Title:    Finding Dory
+Year:     2016
+Director: Andrew Stanton, Angus MacLane
+Rating:   7.5
+Genres:   comedy
+
+Manos: The Hands of Fate|1966|Harold P. Warren|1.9|8
+Title:    Manos: The Hands of Fate
+Year:     1966
+Director: Harold P. Warren
+Rating:   1.9
+Genres:   horror
+
+Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies!!?, The|1964|Ray Dennis Steckler|2.2|8
+Title:    Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies!!?, The
+Year:     1964
+Director: Ray Dennis Steckler
+Rating:   2.2
+Genres:   horror
+
+Z|1969|Costa-Gavras|8.2|2
+Title:    Z
+Year:     1969
+Director: Costa-Gavras
+Rating:   8.2
+Genres:   drama
+
+Wonder Woman|2017|Patty Jenkins|8.1|1,6
+Title:    Wonder Woman
+Year:     2017
+Director: Patty Jenkins
+Rating:   8.1
+Genres:   fantasy, action
+
+Zulu|2013|Jerome Salle|6.7|2
+Title:    Zulu
+Year:     2013
+Director: Jerome Salle
+Rating:   6.7
+Genres:   drama
+-------------------------------------------------------
